@@ -1,0 +1,16 @@
+{
+  "name": "task-quene",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest",
+  "scripts": {
+    "test": "jest --watchAll",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "goblin-pitcher",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
